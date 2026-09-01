@@ -1,0 +1,22 @@
+{
+  "site_title": "Johnson Lab NIH Funding Radar",
+  "lookback_days": 120,
+  "max_items": 250,
+  "minimum_score": 2,
+  "high_priority_score": 8,
+  "keywords": {
+    "human milk and lactation": ["human milk", "breast milk", "breastfeeding", "lactation", "lactating", "mammary gland", "milk production", "milk composition", "milk supply"],
+    "maternal and infant health": ["maternal", "pregnancy", "postpartum", "perinatal", "neonatal", "newborn", "infant", "nicu", "prematurity", "preterm"],
+    "microbiome and nutrition": ["microbiome", "microbiota", "nutrition", "diet", "nutritional", "human milk oligosaccharide", "hmo"],
+    "omics and genetics": ["metabolomics", "metabolome", "proteomics", "genomics", "genome-wide", "gwas", "multi-omics", "sequencing", "precision nutrition"],
+    "development and disparities": ["developmental origins", "dohad", "child development", "health disparities", "health equity", "underserved"]
+  },
+  "priority_institutes": ["NICHD", "NIDDK", "NIGMS", "NINR", "NHLBI", "NIAID", "OD", "NCCIH"],
+  "exclude_keywords": ["small business", "sbir", "sttr", "construction", "animal model only"],
+  "sources": {
+    "grants_gov": true,
+    "nih_guide": true,
+    "highlighted_topics": true
+  }
+}
+

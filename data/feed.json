@@ -1,0 +1,38 @@
+{
+  "updated": "2026-09-01T16:24:35.905662+00:00",
+  "items": [
+    {
+      "id": "demo:1",
+      "kind": "Funding opportunity",
+      "number": "RFA-HD-27-001",
+      "title": "Maternal and Infant Nutrition Research (demonstration)",
+      "agency": "NICHD",
+      "posted": "2026-09-01",
+      "deadline": "2026-11-30",
+      "status": "Posted",
+      "url": "https://grants.nih.gov/",
+      "description": "Example opportunity involving lactation, human milk, infant nutrition, metabolomics, and the microbiome.",
+      "source": "Demonstration",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "score": 18,
+      "topics": [
+        "human milk and lactation",
+        "maternal and infant health",
+        "microbiome and nutrition",
+        "omics and genetics"
+      ],
+      "matches": [
+        "human milk",
+        "infant",
+        "lactation",
+        "maternal",
+        "metabolomics",
+        "microbiome",
+        "nutrition"
+      ],
+      "excluded": []
+    }
+  ],
+  "errors": []
+}
