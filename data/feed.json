@@ -1,29 +1,6 @@
 {
-  "updated": "2026-09-02T17:21:50.987855+00:00",
+  "updated": "2026-09-03T17:04:51.936420+00:00",
   "items": [
-    {
-      "id": "grant:360554",
-      "kind": "Funding opportunity",
-      "number": "PAR-27-051",
-      "title": "NIH Brain Development Cohorts (NBDC) and Population Assessment of Tobacco and Health (PATH) Study Biospecimen Access (X01 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-09-01",
-      "deadline": "2029-04-17",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360554",
-      "description": "The National Institutes of Health seek to advance their mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive DevelopmentSM (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with the respective study objectives that will maximize the scientific utility of these limited samples. Applications should expand the knowledge gained from these studies and advance our understanding of the multiple genetic and environmental factors, such as exposure to substances, that affect health and disease over the course of a lifetime.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-02",
-      "is_new": true,
-      "score": 4,
-      "topics": [
-        "development and disparities"
-      ],
-      "matches": [
-        "child development"
-      ],
-      "excluded": []
-    },
     {
       "id": "grant:361104",
       "kind": "Funding opportunity",
@@ -74,6 +51,30 @@
       "excluded": []
     },
     {
+      "id": "grant:361164",
+      "kind": "Funding opportunity",
+      "number": "PAR-27-071",
+      "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-06-18",
+      "deadline": "2027-01-11",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/361164",
+      "description": "As part of the Gabriella Miller Kids First Pediatric Research Program (Kids First Program), the NIH invites applications to submit samples from pediatric cohorts for whole genome sequencing at a Kids First Program supported genomic data generating centers. Applicants are encouraged to propose sequencing of existing pediatric cancer or congenital anomaly cohorts to elucidate the genetic contribution (somatic and/or germline) to childhood cancers, to investigate the genetic etiology of congenital anomalies, to study the molecular basis of the associations between congenital anomalies and increased cancer risk, or to expand the range of pediatric disorders included within the Kids First Data Resource. The program will accept applications that propose whole genome, exome, and transcriptome sequencing, as well as clinical-grade sequencing, long-read sequencing, proteomics, and epigenomic assays of tumor or affected tissue, when justified. Applicants are encouraged to propose cohorts to increase representation of existing Kids First Program projects. These data, and associated clinical and phenotypic data, will become part of the Kids First Data Resource Center for sharing with the research community.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 7,
+      "topics": [
+        "omics and genetics"
+      ],
+      "matches": [
+        "proteomics",
+        "sequencing"
+      ],
+      "excluded": []
+    },
+    {
       "id": "grant:359740",
       "kind": "Funding opportunity",
       "number": "RFA-AG-27-010",
@@ -93,6 +94,29 @@
       ],
       "matches": [
         "multi-omics"
+      ],
+      "excluded": []
+    },
+    {
+      "id": "grant:360544",
+      "kind": "Funding opportunity",
+      "number": "RFA-DK-27-120",
+      "title": "Nutrition Obesity Research Centers (NORCs) (P30 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-06-30",
+      "deadline": "2026-10-20",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360544",
+      "description": "This Notice of Funding Opportunity (NOFO) invites applications from institutions/organizations that propose to establish core centers that are part of an integrated and existing program of nutrition and/or obesity research. The Nutrition Obesity Research Centers (NORC) program is designed to support and enhance the national research effort in nutrition and obesity. NORCs support three primary research-related activities: Research Core services, a Pilot and Feasibility (P and F) program, and a Scientific Catalyst program. All activities pursued by Nutrition Obesity Research Centers are designed to enhance the efficiency, productivity, effectiveness, and multidisciplinary nature of research in nutrition and obesity.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 6,
+      "topics": [
+        "microbiome and nutrition"
+      ],
+      "matches": [
+        "nutrition"
       ],
       "excluded": []
     },
@@ -143,6 +167,29 @@
       "excluded": []
     },
     {
+      "id": "grant:360441",
+      "kind": "Funding opportunity",
+      "number": "RFA-DK-27-136",
+      "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Research Coordinating Center (U24 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-06-08",
+      "deadline": "2026-10-09",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360441",
+      "description": "This Notice of Funding Opportunity (NOFO) invites applications for a Research Coordinating Center (RCC) to participate in a consortium of clinical centers that will test anti-obesity medication (AOM) treatment strategies for youth with obesity that maximize benefits and minimize risks of AOM use. Such intervention strategies should support the promotion of healthy growth and development; adequate nutritional status/intake, healthy eating and physical activity behaviors; mental health and well-being (e.g., body image, self-esteem, mood, etc.), and quality of life and be feasible to implement in clinical care settings. Priority areas include testing strategies to determine optimal developmental stage for AOM initiation, rate and amount of weight loss, AOM class, dose, frequency, and duration, and content and intensity of adjunct lifestyle therapies that may be imperative to ensure normal psychological and physical development and to potentially avoid lifelong dependence on AOMs. Investigators should also evaluate potential predictors of response/ nonresponse to various treatment strategies under evaluation. The clinical centers may conduct independent or multicenter trials but will collaborate on the development of protocols, use of common measures and data elements, use of a central laboratory and standardized procedures to collect data and biospecimens, and data analyses and manuscriptsThe RCC will lead, manage, and harmonize efforts for the Consortium including 1) providing management and administrative support; 2) providing leadership and expertise on statistical design and analysis, 3) providing research coordination with a central laboratory, 4) harmonizing data collection methods and use of common data elements, 5) developing the database; 6) conducting data management and data analyses for Consortium studies; and 7) fostering research collaborations. This NOFO uses a cooperative agreement mechanism (U24) and runs in parallel with a companion NOFO (RFA-DK-27-121).",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 6,
+      "topics": [
+        "microbiome and nutrition"
+      ],
+      "matches": [
+        "nutritional"
+      ],
+      "excluded": []
+    },
+    {
       "id": "grant:362639",
       "kind": "Funding opportunity",
       "number": "RFA-HG-28-003",
@@ -162,6 +209,29 @@
       ],
       "matches": [
         "genomics"
+      ],
+      "excluded": []
+    },
+    {
+      "id": "grant:360554",
+      "kind": "Funding opportunity",
+      "number": "PAR-27-051",
+      "title": "NIH Brain Development Cohorts (NBDC) and Population Assessment of Tobacco and Health (PATH) Study Biospecimen Access (X01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-09-01",
+      "deadline": "2029-04-17",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360554",
+      "description": "The National Institutes of Health seek to advance their mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive DevelopmentSM (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with the respective study objectives that will maximize the scientific utility of these limited samples. Applications should expand the knowledge gained from these studies and advance our understanding of the multiple genetic and environmental factors, such as exposure to substances, that affect health and disease over the course of a lifetime.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-02",
+      "is_new": false,
+      "score": 4,
+      "topics": [
+        "development and disparities"
+      ],
+      "matches": [
+        "child development"
       ],
       "excluded": []
     },
@@ -208,29 +278,6 @@
       ],
       "matches": [
         "maternal"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:360544",
-      "kind": "Funding opportunity",
-      "number": "RFA-DK-27-120",
-      "title": "Nutrition Obesity Research Centers (NORCs) (P30 Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-06-30",
-      "deadline": "2026-10-20",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360544",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 4,
-      "topics": [
-        "microbiome and nutrition"
-      ],
-      "matches": [
-        "nutrition"
       ],
       "excluded": []
     },
@@ -347,6 +394,25 @@
       "matches": [
         "maternal"
       ],
+      "excluded": []
+    },
+    {
+      "id": "grant:361833",
+      "kind": "Funding opportunity",
+      "number": "RFA-AI-27-014",
+      "title": "Development of Candidate Medical Countermeasures (MCMs) and Technologies Against Radiological/Nuclear or Chemical Threats (U01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-09-01",
+      "deadline": "2028-10-09",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/361833",
+      "description": "The purpose of this notice of funding opportunity (NOFO) is to support research that advances understanding of the natural history of radiation or chemical exposures; develops relevant injury models; identifies and validates diagnostic tools, biomarkers, or triage technologies; and supports the development of effective medical countermeasures (MCMs) to mitigate or treat acute and/or delayed injuries resulting from radiological/nuclear or chemical public health emergencies.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
@@ -730,6 +796,25 @@
       "excluded": []
     },
     {
+      "id": "grant:360532",
+      "kind": "Funding opportunity",
+      "number": "PAR-27-022",
+      "title": "Shared Instrumentation Grant (SIG) Program (S10 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-06-25",
+      "deadline": "2028-07-01",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360532",
+      "description": "This Notice of Funding Opportunity (NOFO) announces the restructured Shared Instrumentation Grant (SIG) Program that consolidates three existing shared-use instrumentation programs, i.e., the Shared Instrumentation Grant program, the High-End Instrumentation Grant program, and the Basic Instrumentation Grant program. The NOFO invites applications from groups of NIH-supported investigators to purchase or upgrade a single state-of-the-art commercially available instrument or an integrated instrumentation system. The instruments purchased through the SIG Program are required to be optimally shared among the users to ensure efficient and cost-effective research operations, enable rigorous and reproducible measurements, and encourage collaborative research and benefit broad research communities at large. The minimum award is $300,000. There is no cap on the total cost of the instrument; however, the maximum award is $5,000,000. Cost sharing is required for premium instruments or special use instruments.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
       "id": "grant:362965",
       "kind": "Funding opportunity",
       "number": "RFA-OD-27-009",
@@ -778,25 +863,6 @@
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/360561",
       "description": "This notice of funding opportunity (NOFO) seeks to establish a course to equip researchers studying drug use, drug misuse, and drug addiction with the skills, knowledge, and practical tools needed to translate their scientific discoveries into impactful real world solutions. The course is envisioned to focus on building capacity in product development, entrepreneurship, and innovation pathways so participants can more effectively move biomedical ideas from early research toward implementation, or commercialization. By combining structured training, mentorship, and hands-on experience, the course is envisioned to accelerate the development of biomedical products that address the complex challenges of drug use, drug misuse, and drug addiction, while fostering an interdisciplinary community of investigators prepared to navigate the scientific, regulatory, and business aspects of this unique research field.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:361164",
-      "kind": "Funding opportunity",
-      "number": "PAR-27-071",
-      "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-06-18",
-      "deadline": "2027-01-11",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/361164",
-      "description": "",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
@@ -867,12 +933,12 @@
       "kind": "Funding opportunity",
       "number": "PAR-27-024",
       "title": "Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
+      "agency": "National Institutes of Health",
       "posted": "2026-06-08",
       "deadline": "2029-01-29",
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/360446",
-      "description": "",
+      "description": "This Notice of Funding Opportunity (NOFO) encourages applications for NIGMS Biomedical Technology Optimization and Dissemination (BTOD) Centers to support late-stage technology optimization and sustainable dissemination of the technologies to the wider biomedical research community. A BTOD Center should be at the leading edge of its field with respect to both technology optimization and engagement with relevant research communities.BTOD projects must address biomedical research areas within the NIGMS mission. Potential applicants are strongly encouraged to consult with NIGMS staff about adherence of their proposed research strategy to the Institute's goals and mission and its responsiveness to this NOFO.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
@@ -892,6 +958,44 @@
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/362672",
       "description": "The goal of this notice of funding opportunity (NOFO) is to address the opioid crisis and/or overdose events by supporting action-oriented research, accelerating the translation of addiction epidemiology, prevention, treatment services, and recovery research to practice. Proposed studies may target the individual, provider, organizational, community, or system level. This initiative prioritizes replicable and scalable approaches for accelerating the routine use of effective, evidence-based prevention, treatment and recovery interventions and services. The translation of research to practice and research relevant to chronic pain comorbid with substance use is also a priority. Research may deploy a variety of methods and approaches, including but not limited to identifying and characterizing malleable factors, developing and testing interventions and implementation strategies, deploying and testing collaborative data science approaches, and/or developing and testing approaches that integrate the collaboration of researchers and decision-makers at any levels (e.g., clinical-, health system-, public health- or policy-level).",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
+      "id": "grant:360881",
+      "kind": "Funding opportunity",
+      "number": "RFA-CA-27-012",
+      "title": "Metastasis Research Network (U54 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-06-04",
+      "deadline": "2026-09-25",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360881",
+      "description": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications for research on developing a comprehensive and cohesive understanding of cancer metastasis. Towards this goal, the NCI will support U54 Specialized Centers that together will continue to serve as the hub of the Metastasis Research Network (MetNet). Each MetNet Center should propose an overarching scientific theme that will be pursued through two or three scientific inter- and multidisciplinary basic research projects. The projects should use integrative system level approaches to elucidate and integrate a mechanistic understanding of the non-linear, dynamic, and emergent processes in metastasis. Overarching themes should encompass the interplay between at least two central elements in the metastatic process such as early dissemination, cellular, soluble and/or physical microenvironment crosstalk, dormancy, or mechanisms of responses by metastatic cells to therapies. Studies on all types of cancer are welcome, including rare and pediatric metastatic cancers.Research proposed by MetNet Centers is expected to advance our understanding towards a more comprehensive appreciation of metastasis as a whole body, systems-level problem.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
+      "id": "grant:360626",
+      "kind": "Funding opportunity",
+      "number": "RFA-DK-27-108",
+      "title": "Continuation of the Cardiovascular Repository for-Type 1 Diabetes (CARE-T1D) Consortium U01 (Open Competition)- Research (U01, Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-06-04",
+      "deadline": "2027-03-10",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360626",
+      "description": "The NIH Cardiovascular Repository for Type 1 Diabetes (CaRe-T1D) was created to improve research on type 1 diabetes (T1D) and cardiovascular disease (CVD). Cardiovascular complications remain the top cause of death among people with T1D and greatly shorten lifespan. The mechanisms underlying atherosclerosis, cardiomyopathy, endothelial dysfunction, and cardiac autonomic neuropathy in T1D remain poorly understood. While managing traditional risk factors\u2014such as high blood glucose, high blood pressure, and elevated cholesterol lower cardiovascular risk, a significant residual risk remains even with optimal control. In addition to atherosclerosis, both diastolic and systolic diabetic cardiomyopathy play a major role in morbidity and mortality among these patients. Currently, no therapies are specifically approved to prevent or treat these common and severe cardiovascular issues in T1D. The purpose of this NOFO is to promote collaborative and interdisciplinary research aimed at enhancing the understanding of the development of CVD in individuals with T1D and the differences with CVD in T1D by continuing the efforts of the CaRe-T1D consortium.This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
@@ -1091,6 +1195,44 @@
       "excluded": []
     },
     {
+      "id": "grant:360380",
+      "kind": "Funding opportunity",
+      "number": "RFA-DA-27-015",
+      "title": "Establishing a Center for the Advancement of Substance Use Disorder (SUD) Pharmacotherapeutics through Training and Preclinical Support (U54 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-05-21",
+      "deadline": "2026-09-30",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360380",
+      "description": "The purpose of this notice of funding opportunity (NOFO) is to establish a Center that trains researchers in formal product development for new substance use disorder (SUD) pharmacotherapeutics and to advance the best concepts through initial experiments via technical and financial support.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
+      "id": "grant:359892",
+      "kind": "Funding opportunity",
+      "number": "RFA-CA-27-019",
+      "title": "Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-05-21",
+      "deadline": "2027-10-19",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/359892",
+      "description": "This Notice of Funding Opportunity (NOFO) solicits applications for the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology. As a component of the NCI's Informatics Technology for Cancer Research (ITCR) Program, this NOFO is focused on early-stage development from prototyping to initial dissemination. Early-stage development is defined for the purpose of this NOFO as initial tool development or the significant modification of existing tools for new applications. The central mission of ITCR is to promote research-driven informatics technology across the development lifecycle to address priority needs in cancer research. In order to be successful, proposed development plans must have a clear rationale for why the proposed technology is needed and how it will benefit the cancer research field. In addition, mechanisms to solicit feedback from driving research projects and other users throughout the development process must be included.This NOFO encourages applications that involve the development of new, user-friendly informatics technologies that support a wide range of cancer research, including discovery biology, population studies, as well as clinical and translational research. The emphasis is on uniqueness and potential impact on cancer research. In addition, all projects proposed in response to this NOFO must involve the following general attributes:Potential to advance driving cancer research projects and the cancer research field in generalNovel informatics capabilities for the targeted cancer research domainCompelling plans and processes for engaging end users to evaluate and apply the tool or resourceA realistic timeline and milestones for technology development",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
       "id": "grant:358963",
       "kind": "Funding opportunity",
       "number": "RFA-CA-27-006",
@@ -1129,6 +1271,25 @@
       "excluded": []
     },
     {
+      "id": "grant:358917",
+      "kind": "Funding opportunity",
+      "number": "RFA-DK-27-147",
+      "title": "Single Source for Continuation of the Integrated Islet Distribution Program U24 (Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-05-20",
+      "deadline": "2026-09-30",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/358917",
+      "description": "This is a NOFO for a Single Source competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) is announcing its intent to issue a single source cooperative agreement award to Beckman Research Institute/City of Hope for the currently funded Integrated Islet Distribution Program (IIDP) to renew the program and maintain support for its continuing mission to provide the scientific community with important islet resources for diabetes research. The IIDP facilitates the distribution of human islets to biomedical researchers by establishing partnerships with qualified islet isolation facilities to prepare and distribute human islets. Human islets remain an essential resource for diabetes research to advance our understanding of human islet cell biology, and to promote the development of new therapies for the prevention and treatment of diabetes.This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
       "id": "grant:359696",
       "kind": "Funding opportunity",
       "number": "RFA-DC-27-003",
@@ -1152,12 +1313,12 @@
       "kind": "Funding opportunity",
       "number": "RFA-OD-27-005",
       "title": "INCLUDE Project: Clinical Trials Phased Awards for Down syndrome Research (R61/R33 Clinical Trial Required)",
-      "agency": "HHS-NIH11",
+      "agency": "National Institutes of Health",
       "posted": "2026-05-13",
       "deadline": "2028-06-15",
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/360655",
-      "description": "",
+      "description": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. The purpose of this Notice of Funding Opportunity (NOFO) encourages Exploratory/Developmental Phased Innovation (R61/R33) grant applications to support development of clinical trials to treat critical and co-occurring health conditions in individuals with Down syndrome. The proposed research aims should be milestone-driven. The total project period for an application submitted in response to this NOFO may not exceed five years. This NOFO provides support for up to two years (R61 phase) for preliminary/developmental/planning studies, followed by possible transition to clinical trial support (R33) of up to three years, although the total duration of the award may not exceed five years. This NOFO requires measurable R61 milestones.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
@@ -1190,12 +1351,12 @@
       "kind": "Funding opportunity",
       "number": "RFA-OD-27-004",
       "title": "INCLUDE Project: Transformative Research Awards for Down syndrome (R01 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
+      "agency": "National Institutes of Health",
       "posted": "2026-05-12",
       "deadline": "2028-06-15",
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/360654",
-      "description": "",
+      "description": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. The purpose of this Notice of Funding Opportunity (NOFO) is to solicit Transformative Research Award applications to support individual scientists or groups of scientists proposing groundbreaking, exceptionally innovative, original, and/or unconventional research that has the potential to create new scientific paradigms, establish entirely new and improved clinical approaches, or develop transformative technologies related to Down syndrome. Applications are welcome in all topics relevant to Down syndrome-related research or its co-occurring conditions. No preliminary data are required. Projects must clearly demonstrate, based on the strength of the logic, a compelling potential to produce a major impact in research related to Down syndrome.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
@@ -1285,12 +1446,12 @@
       "kind": "Funding opportunity",
       "number": "PA-27-034",
       "title": "NIH Research Education Program - Courses, Curriculum & Methods (Parent R25 - Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
+      "agency": "National Institutes of Health",
       "posted": "2026-06-08",
       "deadline": "2029-05-25",
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/359703",
-      "description": "",
+      "description": "The National Institutes of Health (NIH) Research Education Program supports research education activities in the mission areas of the NIH. The overarching goal of the Research Education program is to:Support educational activities that complement and/or enhance training of a workforce to meet the nation's biomedical, behavioral and clinical research needs;Help recruit individuals with specific specialty or disciplinary backgrounds to research careers in biomedical, behavioral and clinical sciences; andFoster a better understanding of biomedical, behavioral and clinical research and its implications.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
