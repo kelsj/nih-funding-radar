@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:04:51.936420+00:00",
+  "updated": "2026-09-04T16:54:54.509189+00:00",
   "items": [
     {
       "id": "grant:361104",
@@ -711,25 +711,6 @@
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/359271",
       "description": "The overarching goal of this notice of funding opportunity (NOFO) and its companion opportunities is to establish the Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) Program to support development of innovative, reliable, cost-effective, and sustainable multimodal AI-based clinical decision support (CDS) tools. PRIMED-AI CDS tools are based on the integration of clinical imaging with other types of multimodal health data to enhance care for patients with a wide range of health conditions. The PRIMED-AI Program seeks to catalyze the adoption of AI-based CDS tools into clinical workflows to enable novel personalized medicine strategies that address significant health challenges. The purpose of this NOFO is to solicit applications for the design, development, and preliminary validation of robust frameworks for the application of multimodal-artificial intelligence (AI) models for clinical use. Frameworks developed through these awards would populate a \"playbook\", defined as a collection of actionable guidelines, standardized protocols, and/or standard operating procedures (SOPs) for reliable and effective development and deployment of multimodal AI tools. It is expected that the frameworks delineated in this playbook will directly address PRIMED-AI objectives and needs, while also remaining flexible enough to enable sufficient extensibility and interoperability for use across a broad spectrum of multimodal biomedical AI applications, both internal and external to the PRIMED-AI Program.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:361084",
-      "kind": "Funding opportunity",
-      "number": "RFA-RM-27-003",
-      "title": "NIH Director\u2019s Transformative Research Award for Individual and Group Science (R01 Clinical Trial Optional)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-29",
-      "deadline": "2026-09-03",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/361084",
-      "description": "The NIH Director\"s Transformative Research Award supports individual scientists or groups of scientists proposing bold, groundbreaking, exceptionally innovative, original, and/or unconventional research with the potential to create new scientific paradigms, establish entirely new and improved clinical approaches, or develop transformative technologies. Applications in any area within the biomedical sciences are welcome; topics may involve basic, translational, or clinical research. No preliminary data are required. Projects must clearly demonstrate, based on the strength of the logic, a compelling potential to produce a major impact in a broad area of relevance to the NIH. The NIH Director\"s Transformative Research Award is a component of the High-Risk, High-Reward Research (HRHR) program of the NIH Common Fund.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
