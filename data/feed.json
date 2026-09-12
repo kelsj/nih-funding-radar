@@ -1,25 +1,6 @@
 {
-  "updated": "2026-09-11T17:04:04.371939+00:00",
+  "updated": "2026-09-12T16:22:25.886917+00:00",
   "items": [
-    {
-      "id": "grant:363850",
-      "kind": "Funding opportunity",
-      "number": "RFA-RM-28-012",
-      "title": "R3PEATS Multi-Team Triangulation: Collaborative Cross-Method Approaches to Scientific Discovery (RM1)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-09-11",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/363850",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-11",
-      "is_new": true,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
     {
       "id": "grant:361104",
       "kind": "Funding opportunity",
@@ -413,6 +394,25 @@
       "matches": [
         "maternal"
       ],
+      "excluded": []
+    },
+    {
+      "id": "grant:363850",
+      "kind": "Funding opportunity",
+      "number": "RFA-RM-28-012",
+      "title": "R3PEATS Multi-Team Triangulation: Collaborative Cross-Method Approaches to Scientific Discovery (RM1)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-09-11",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/363850",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-11",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
