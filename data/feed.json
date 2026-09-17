@@ -1,29 +1,42 @@
 {
-  "updated": "2026-09-16T17:39:20.085294+00:00",
+  "updated": "2026-09-17T17:40:15.928049+00:00",
   "items": [
     {
-      "id": "grant:361104",
+      "id": "grant:363877",
       "kind": "Funding opportunity",
-      "number": "PAR-27-069",
-      "title": "Accelerating Discovery through Partnered Research with All of Us to Analyze Participant Biospecimens (X01 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-19",
-      "deadline": "2027-03-01",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/361104",
-      "description": "The purpose of this Program Announcement with Special Receipt, Referral, and/or Review Considerations (PAR) is to solicit applications to access stored blood plasma, blood serum, and extracted DNA from the All of Us Research Program supported Biobank to advance the program's mission of accelerating health research and medical breakthroughs, enabling individualized prevention, treatment, and care for all of us.All of Us partnered research studies are collaborative initiatives funded by a study sponsor external to All of Us to collect and add new data to the All of Us Researcher Workbench in accordance with All of Us\" best practices. All of Us partnered research studies are open to the broad scientific community and require investigators to apply for and receive an X01 award under this announcement.This will enable longitudinal follow\u2010up and repeat sampling, and provide multiomic data (genomics, proteomics, metabolomics, and other high\u2010dimensional molecular profiles), integrated clinical, environmental, and life\u2010course data, infrastructure designed to support future clinical\u2010trial recruitment, and public\u2010private partnership pathways.This opportunity will enable researchers to conduct assays to evaluate associations between newly collected and existing All of Us data and add new data to the All of Us dataset for broad use by the research community. High-priority areas for biospecimen analyses may include, but are not limited to, large scale projects that propose integrated multiomics analyses, early disease detection, biomarker discovery or validation, novel risk models for incident disease, and/or novel disease stratification for chronic disease risk, diagnosis, and prognosis, in support of advancing precision medicine. For more information, please visit the All of Us X01 Partnered Research Studies Resource webpage.",
+      "number": "PAR-29-002",
+      "title": "Development of Models, New Approach Methodologies, and Biological Materials for Studying Human Health and Diseases (R21 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-09-16",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/363877",
+      "description": "",
       "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 8,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "genomics",
-        "metabolomics",
-        "proteomics"
-      ],
+      "first_seen": "2026-09-17",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
+      "id": "grant:363874",
+      "kind": "Funding opportunity",
+      "number": "RFA-MH-28-115",
+      "title": "Single Source: Scalable and Systematic Neurobiology of Psychiatric and Neurodevelopmental Disorder Risk Genes: Data Resource and Administrative Coordination Center (U24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-09-16",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/363874",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-17",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
@@ -370,29 +383,6 @@
       ],
       "matches": [
         "genomics"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:359945",
-      "kind": "Funding opportunity",
-      "number": "RFA-HD-27-007",
-      "title": "Using Archived Data and Specimen Collections to Advance Maternal and Pediatric HIV/AIDS Research (R21 CT Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-19",
-      "deadline": "2028-10-20",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359945",
-      "description": "The purpose of this Funding Opportunity is to address the needs of the maternal and pediatric HIV scientific community for research data translation and sharing.This initiative will support secondary data analyses using archived HIV/AIDS data and specimens. The goal of this initiative is to encourage the scientific community to utilize HIV/AIDS archived data sets and specimen collections to answer important questions about the epidemiology, pathogenesis, treatment, clinical manifestations, and HIV-associated co-infections and co-morbidities in maternal, pediatric and adolescent populations.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 4,
-      "topics": [
-        "maternal and infant health"
-      ],
-      "matches": [
-        "maternal"
       ],
       "excluded": []
     },
