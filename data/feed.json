@@ -1,44 +1,6 @@
 {
-  "updated": "2026-09-17T17:40:15.928049+00:00",
+  "updated": "2026-09-18T17:07:16.363652+00:00",
   "items": [
-    {
-      "id": "grant:363877",
-      "kind": "Funding opportunity",
-      "number": "PAR-29-002",
-      "title": "Development of Models, New Approach Methodologies, and Biological Materials for Studying Human Health and Diseases (R21 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-09-16",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/363877",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-17",
-      "is_new": true,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:363874",
-      "kind": "Funding opportunity",
-      "number": "RFA-MH-28-115",
-      "title": "Single Source: Scalable and Systematic Neurobiology of Psychiatric and Neurodevelopmental Disorder Risk Genes: Data Resource and Administrative Coordination Center (U24 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-09-16",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/363874",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-17",
-      "is_new": true,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
     {
       "id": "grant:363210",
       "kind": "Funding opportunity",
@@ -384,6 +346,44 @@
       "matches": [
         "genomics"
       ],
+      "excluded": []
+    },
+    {
+      "id": "grant:363877",
+      "kind": "Funding opportunity",
+      "number": "PAR-29-002",
+      "title": "Development of Models, New Approach Methodologies, and Biological Materials for Studying Human Health and Diseases (R21 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-09-16",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/363877",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-17",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
+    {
+      "id": "grant:363874",
+      "kind": "Funding opportunity",
+      "number": "RFA-MH-28-115",
+      "title": "Single Source: Scalable and Systematic Neurobiology of Psychiatric and Neurodevelopmental Disorder Risk Genes: Data Resource and Administrative Coordination Center (U24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-09-16",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/363874",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-17",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
@@ -1242,63 +1242,6 @@
       "excluded": []
     },
     {
-      "id": "grant:362488",
-      "kind": "Funding opportunity",
-      "number": "PAR-28-019",
-      "title": "Integrated Specific Pathogen Free Research Models and Human New Approach Methodologies to Advance HIV/AIDS Research (U42 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-05-20",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/362488",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:358917",
-      "kind": "Funding opportunity",
-      "number": "RFA-DK-27-147",
-      "title": "Single Source for Continuation of the Integrated Islet Distribution Program U24 (Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-20",
-      "deadline": "2026-09-30",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/358917",
-      "description": "This is a NOFO for a Single Source competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) is announcing its intent to issue a single source cooperative agreement award to Beckman Research Institute/City of Hope for the currently funded Integrated Islet Distribution Program (IIDP) to renew the program and maintain support for its continuing mission to provide the scientific community with important islet resources for diabetes research. The IIDP facilitates the distribution of human islets to biomedical researchers by establishing partnerships with qualified islet isolation facilities to prepare and distribute human islets. Human islets remain an essential resource for diabetes research to advance our understanding of human islet cell biology, and to promote the development of new therapies for the prevention and treatment of diabetes.This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:359696",
-      "kind": "Funding opportunity",
-      "number": "RFA-DC-27-003",
-      "title": "Transformative Non-Invasive/Minimally Invasive Technologies for Imaging the Olfactory System Across Scales (R01 CT Optional)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-20",
-      "deadline": "2028-08-21",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359696",
-      "description": "The National Institute on Deafness and Other Communication Disorders (NIDCD), with the National Institute of Biomedical Imaging and Bioengineering (NIBIB) aims to support the development and/or adaptation of transformative in vivo high-resolution/high specificity imaging of the human olfactory system. Currently, there are limited non-invasive/minimally invasive technologies available for imaging the living human peripheral and central olfactory system with high spatial and temporal resolution. Imaging the olfactory system in the laboratory and in the clinic is essential to understanding underlying biological mechanisms as well as the etiology of an olfactory disorder. Such imaging has proven challenging due to the olfactory system\"s unique anatomical and functional characteristics such as restricted accessibility, multiple cell types, and low signal resolution. Addressing these challenges requires multimodal approaches including leveraging existing advanced tools and technologies and developing new tools tailored for the olfactory system. Recent advances in minimally invasive and non-invasive imaging technologies, such as cell specific biomarkers, fluorescence imaging, specialized endoscopes, optical and acoustic imaging, molecular imaging, and hemodynamic and diffusion imaging have the potential to transform our ability to image and investigate the peripheral and central olfactory system in the living human with superior temporal and spatial resolution and eventually improve diagnostic accuracy of olfactory disorders. Applications must leverage advanced non-invasive/minimally invasive imaging technologies to visualize peripheral (e.g., olfactory- and non-olfactory epithelium) and central olfactory (e.g., olfactory bulb) targets at a level previously unattainable. In addition, projects should engage multidisciplinary teams combining expertise in olfaction, biomedical imaging, biochemistry, bioengineering, and biophysics, as appropriate.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
       "id": "grant:359703",
       "kind": "Funding opportunity",
       "number": "PA-27-034",
@@ -1319,6 +1262,7 @@
     }
   ],
   "errors": [
-    "NIH Guide: HTTP Error 406: Not Acceptable"
+    "NIH Guide: HTTP Error 403: Forbidden",
+    "Highlighted Topics: HTTP Error 403: Forbidden"
   ]
 }
