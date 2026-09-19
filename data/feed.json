@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:07:16.363652+00:00",
+  "updated": "2026-09-19T16:33:28.420446+00:00",
   "items": [
     {
       "id": "grant:363210",
@@ -1185,63 +1185,6 @@
       "excluded": []
     },
     {
-      "id": "grant:360380",
-      "kind": "Funding opportunity",
-      "number": "RFA-DA-27-015",
-      "title": "Establishing a Center for the Advancement of Substance Use Disorder (SUD) Pharmacotherapeutics through Training and Preclinical Support (U54 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-21",
-      "deadline": "2026-09-30",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360380",
-      "description": "The purpose of this notice of funding opportunity (NOFO) is to establish a Center that trains researchers in formal product development for new substance use disorder (SUD) pharmacotherapeutics and to advance the best concepts through initial experiments via technical and financial support.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:359892",
-      "kind": "Funding opportunity",
-      "number": "RFA-CA-27-019",
-      "title": "Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01 Clinical Trial Optional)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-21",
-      "deadline": "2027-10-19",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359892",
-      "description": "This Notice of Funding Opportunity (NOFO) solicits applications for the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology. As a component of the NCI's Informatics Technology for Cancer Research (ITCR) Program, this NOFO is focused on early-stage development from prototyping to initial dissemination. Early-stage development is defined for the purpose of this NOFO as initial tool development or the significant modification of existing tools for new applications. The central mission of ITCR is to promote research-driven informatics technology across the development lifecycle to address priority needs in cancer research. In order to be successful, proposed development plans must have a clear rationale for why the proposed technology is needed and how it will benefit the cancer research field. In addition, mechanisms to solicit feedback from driving research projects and other users throughout the development process must be included.This NOFO encourages applications that involve the development of new, user-friendly informatics technologies that support a wide range of cancer research, including discovery biology, population studies, as well as clinical and translational research. The emphasis is on uniqueness and potential impact on cancer research. In addition, all projects proposed in response to this NOFO must involve the following general attributes:Potential to advance driving cancer research projects and the cancer research field in generalNovel informatics capabilities for the targeted cancer research domainCompelling plans and processes for engaging end users to evaluate and apply the tool or resourceA realistic timeline and milestones for technology development",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:358963",
-      "kind": "Funding opportunity",
-      "number": "RFA-CA-27-006",
-      "title": "NCI Community Oncology Research Program (NCORP) Research Bases (UG1 Clinical Trial Required)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-21",
-      "deadline": "2026-09-18",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/358963",
-      "description": "This Notice of Funding Opportunity (NOFO) is one of three NOFOs for the National Cancer Institute (NCI) Community Oncology Research Program (NCORP). NCORP is designed to enhance generalizability and dissemination of clinical trial and other human subject research study results through accrual in a variety of community settings. The purpose of NCORP is to engage cancer patient populations, those at risk of cancer, and organizations in rigorous studies focused on cancer control, prevention, treatment and care delivery.NCORP is a community-based research network that:Designs and conducts clinical trials and other human subject studies for adults and children in cancer control, prevention, screening, and care delivery, as well as quality-of-life studies embedded within treatment trials;Enhances patient and provider access to treatment and imaging trials conducted under the National Clinical Trials Network (NCTN);NCORP will support the following components that will be individually awarded through the respective Request for Applications (RFAs) indicated below:NCORP Research Bases (UG1 Clinical Trials Required)(covered by this NOFO);NCORP Community Sites (UG1 Clinical Trials Not Allowed); andNCORP Academic Community Sites (UG1 Clinical Trials Not Allowed).NCORP Research Bases will serve as the program's research hubs and are expected to:Provide an established organizational structure, with scientific and statistical leadership for developing, implementing, and analyzing multi-institutional cancer control, prevention, and care delivery (CCP&CD) clinical research, as well as quality-of-life studies embedded in treatment and imaging studies.Assume responsibility for study operations and data management, including efficient protocol development; compliance with Food and Drug Administration (FDA) and Office of Human Research Protections (OHRP) regulatory and participant protection requirements; auditing; training; quality assurance; and support to Community Sites and Academic Community Sites.Be based at institutions with comprehensive cancer clinical research expertise (e.g., NCI-designated Cancer Center, or healthcare research organization \u2013 including NCI's National Clinical Trials Network (NCTN) Group Operations Centers, or a cancer foundation associated with a NCTN Group).",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
       "id": "grant:359703",
       "kind": "Funding opportunity",
       "number": "PA-27-034",
@@ -1262,7 +1205,6 @@
     }
   ],
   "errors": [
-    "NIH Guide: HTTP Error 403: Forbidden",
-    "Highlighted Topics: HTTP Error 403: Forbidden"
+    "NIH Guide: HTTP Error 406: Not Acceptable"
   ]
 }
