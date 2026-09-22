@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-21T18:46:08.129355+00:00",
+  "updated": "2026-09-22T17:40:07.749840+00:00",
   "items": [
+    {
+      "id": "grant:363915",
+      "kind": "Funding opportunity",
+      "number": "PAR-28-061",
+      "title": "Research to Improve Rigor, Replicability, and Reproducibility in Biomedical and Behavioral Sciences",
+      "agency": "HHS-NIH11",
+      "posted": "2026-09-22",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/363915",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-22",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
     {
       "id": "grant:363210",
       "kind": "Funding opportunity",
