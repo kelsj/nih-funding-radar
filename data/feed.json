@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-24T17:53:55.950261+00:00",
+  "updated": "2026-09-25T17:59:12.584408+00:00",
   "items": [
+    {
+      "id": "grant:360545",
+      "kind": "Funding opportunity",
+      "number": "PAR-28-072",
+      "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-09-25",
+      "deadline": "2029-11-16",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360545",
+      "description": "The purpose of NEI's Translational Research program (TRP) is the rapid and efficient translation of innovative laboratory research findings into therapeutics for use by clinicians to treat visual system diseases or disorders. The TRP will support the product development of biological, pharmaceutical, medical device, and/or combination therapies for any disease or disorder of the visual system.The TRP will utilize a bi-phasic, milestone-driven mechanism of award. The R61 phase can be up to two years and will support research that has demonstrated significant preliminary data but has not advanced to the level of clinical translation. The R33 phase can be up to four years and will support research that is in the final states of preclinical development with potential for near-term clinical development. The total duration of both R61 and R33 cannot exceed five years. The R33 is to focus on advancing a single therapeutic candidate through Investigational New Drug or Investigational Device Exemption (IND/IDE) enabling studies, filing an IND/IDE package with the FDA, and designing future clinical trials. R33 recipients must submit or obtain an IND/IDE application to FDA, or must transition the product to clinical practice, within the period of performance. The specific activities appropriate for the R33 phase will depend on the product under study and available preliminary data on the product. Delineation of milestones by the applicant for the R61 and R33 phases is a key characteristic of this program. A milestone is defined as a scheduled event in the project timeline that signifies the completion of a major project stage or activity. This program will support applications that propose a series of milestones including manufacturing and product development goals. Applications that address contingency plans to proactively confront potential delays in meeting the milestones are strongly encouraged. Milestones are required for both phases. Milestones must be specific, measurable, achievable, relevant, and time-bound (SMART). All projects will begin with a R61 phase regardless of therapeutic starting point.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-25",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
     {
       "id": "grant:363210",
       "kind": "Funding opportunity",
@@ -346,6 +365,25 @@
       "matches": [
         "genomics"
       ],
+      "excluded": []
+    },
+    {
+      "id": "grant:362965",
+      "kind": "Funding opportunity",
+      "number": "RFA-OD-27-009",
+      "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-09-24",
+      "deadline": "2026-11-10",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/362965",
+      "description": "This Notice of Funding Opportunity (NOFO) announces the renewal of the NIH Research Evaluation and Commercialization Hub (REACH) program, established to facilitate and accelerate the translation of academic biomedical discoveries into products that improve patient care and public health. Through this program, NIH will provide the qualifying institutions with the funds to seed the creation of academic entrepreneurship Hubs. Hubs will be responsible for providing innovators with both the initial investment and resources to support the proof-of-concept work and the mentorship in product development and commercialization needed to develop high priority technologies within the NIH's mission. Funded Hubs are intended to work as a consortium to enable: (1) the infrastructure for identifying the most promising technologies, (2) funding for product definition studies (e.g. feasibility studies, prototype development, proof-of-concept studies) provided to individual researchers, (3) access to resources and expertise in areas required for early stage technology development (including scientific, regulatory, reimbursement, business, legal, and project management), and (4) skills development and hands-on experience in entrepreneurship. Establishing public-private partnerships and providing additional non-federal funds will be critical for success. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite applications from eligible organizations to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
@@ -824,25 +862,6 @@
       "excluded": []
     },
     {
-      "id": "grant:362965",
-      "kind": "Funding opportunity",
-      "number": "RFA-OD-27-009",
-      "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-06-25",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/362965",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
       "id": "grant:362950",
       "kind": "Funding opportunity",
       "number": "RFA-AI-28-007",
@@ -1176,25 +1195,6 @@
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/359150",
       "description": "This NOFO seeks to advance research and training in high-priority areas of child health by stimulating the use of Environmental Influences on Child Health Outcomes (ECHO) Cohort data by postdoctoral fellows from relevant scientific disciplines. This RFA will provide opportunities for fellows to study child health outcomes through the analysis of ECHO's large longitudinal data sets within the NICHD Data and Specimen Hub (DASH) repository. ECHO's DASH dataset integrates de-identified longitudinal data from more than 71,000 participants across the U.S. Prenatal and child exposure data include physical, chemical, social, behavioral, and biological factors. ECHO's five primary pediatric outcome areas are pre-, peri-, and postnatal outcomes, upper and lower airway, obesity, neurodevelopment, and positive health.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:362581",
-      "kind": "Funding opportunity",
-      "number": "PAR-27-062",
-      "title": "Academic Career Excellence (ACE) Award (K32 Independent Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-05-27",
-      "deadline": "2029-07-12",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/362581",
-      "description": "The purpose of the Academic Career Excellence (ACE) Award (K32) is to support rigorous, mentored scientific research and career development for up to three years for early-stage postdoctoral scholars. Candidates must submit their application up to one year prior to beginning their postdoctoral position or no more than two years after their postdoctoral training begins (resubmissions included). The ACE K32 will foster early, goal-directed planning and encourage innovative applications with the potential for a significant impact on scientific research and career development. Inclusion of preliminary data are not required as the ACE K32 emphasizes innovative research ideas and thoughtful plans for training and mentorship that will facilitate the development of the postdoctoral scholars who have the potential to become productive, independent investigators in research fields relevant to the missions of the participating NIH Institutes and Centers.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
