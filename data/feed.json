@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-06T18:57:17.888306+00:00",
+  "updated": "2026-10-07T19:24:07.172653+00:00",
   "items": [
+    {
+      "id": "grant:360366",
+      "kind": "Funding opportunity",
+      "number": "RFA-DA-28-012",
+      "title": "HEAL Initiative: Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) - Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center (U2C Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-10-06",
+      "deadline": "2027-01-26",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360366",
+      "description": "The National Institutes of Health (NIH) intends to renew the Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) research network. This renewal consists of individual research projects, which will be supported by a single Coordination Center. This network is intended to test new innovations that integrate evidence based treatments for chronic pain (CP) and opioid use disorder (OUD). This research will characterize or modify factors that impact wide-scale adoption and sustained use of effective treatments at this intersection. The network will be part of the NIH\u2019s Helping to End Addiction Long-term (HEAL\u00ae) Initiative to speed the development and implementation of scientific solutions to the national opioid public health crisis. The NIH HEAL Initiative will bolster research across NIH to (1) improve treatment and prevention of opioid misuse and OUD and (2) enhance pain management. This notice of funding opportunity (NOFO) seeks applications for a single Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center. The BEACON Center will provide overall network coordination support; research education activities to build capacity at the intersection of CP, OUD, and implementation science; annual survey/qualitative activities to understand different barriers and attitudes impacting access and sustained use of integrated CP and OUD service delivery; and develop key resources for stakeholders that can inform/improve sustainability and scalability of evidence-based practices, including findings and resources from IMPOWR Phase I.",
+      "source": "Grants.gov",
+      "first_seen": "2026-10-07",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
     {
       "id": "grant:363210",
       "kind": "Funding opportunity",
@@ -115,52 +134,6 @@
       ],
       "matches": [
         "genomics"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:360387",
-      "kind": "Funding opportunity",
-      "number": "RFA-DK-27-121",
-      "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Clinical Centers (U01 Clinical Trial Required)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-08",
-      "deadline": "2026-10-09",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360387",
-      "description": "This Notice of Funding Opportunity (NOFO) invites applications from clinical centers to participate in a consortium to test anti-obesity medication (AOM) treatment strategies for youth with obesity that maximize benefits and minimize risks of AOM use. Such intervention strategies should support the promotion of healthy growth and development; adequate nutritional status/intake, healthy eating and physical activity behaviors; mental health and well-being (e.g., body image, self-esteem, mood, etc.), and quality of life and be feasible to implement in clinical care settings. Priority areas include testing strategies to determine optimal developmental stage for AOM initiation, rate and amount of weight loss, AOM class, dose, frequency, and duration, and content and intensity of adjunct lifestyle therapies that may be imperative to ensure normal psychological and physical development and to potentially avoid lifelong dependence on AOMs. Investigators should also evaluate potential predictors of response/ nonresponse to various treatment strategies under evaluation. The clinical centers may conduct independent or multicenter trials but will collaborate on the development of protocols, use of common measures and data elements, use of a central laboratory and standardized procedures to collect data and biospecimens, and data analyses and manuscripts. This NOFO uses a cooperative agreement mechanism (U01) and runs in parallel with a companion NOFO (RFA-DK-27-136).",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 6,
-      "topics": [
-        "microbiome and nutrition"
-      ],
-      "matches": [
-        "nutritional"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:360441",
-      "kind": "Funding opportunity",
-      "number": "RFA-DK-27-136",
-      "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Research Coordinating Center (U24 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-08",
-      "deadline": "2026-10-09",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360441",
-      "description": "This Notice of Funding Opportunity (NOFO) invites applications for a Research Coordinating Center (RCC) to participate in a consortium of clinical centers that will test anti-obesity medication (AOM) treatment strategies for youth with obesity that maximize benefits and minimize risks of AOM use. Such intervention strategies should support the promotion of healthy growth and development; adequate nutritional status/intake, healthy eating and physical activity behaviors; mental health and well-being (e.g., body image, self-esteem, mood, etc.), and quality of life and be feasible to implement in clinical care settings. Priority areas include testing strategies to determine optimal developmental stage for AOM initiation, rate and amount of weight loss, AOM class, dose, frequency, and duration, and content and intensity of adjunct lifestyle therapies that may be imperative to ensure normal psychological and physical development and to potentially avoid lifelong dependence on AOMs. Investigators should also evaluate potential predictors of response/ nonresponse to various treatment strategies under evaluation. The clinical centers may conduct independent or multicenter trials but will collaborate on the development of protocols, use of common measures and data elements, use of a central laboratory and standardized procedures to collect data and biospecimens, and data analyses and manuscriptsThe RCC will lead, manage, and harmonize efforts for the Consortium including 1) providing management and administrative support; 2) providing leadership and expertise on statistical design and analysis, 3) providing research coordination with a central laboratory, 4) harmonizing data collection methods and use of common data elements, 5) developing the database; 6) conducting data management and data analyses for Consortium studies; and 7) fostering research collaborations. This NOFO uses a cooperative agreement mechanism (U24) and runs in parallel with a companion NOFO (RFA-DK-27-121).",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 6,
-      "topics": [
-        "microbiome and nutrition"
-      ],
-      "matches": [
-        "nutritional"
       ],
       "excluded": []
     },
@@ -887,44 +860,6 @@
       "first_seen": "2026-09-01",
       "is_new": false,
       "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:360446",
-      "kind": "Funding opportunity",
-      "number": "PAR-27-024",
-      "title": "Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-08",
-      "deadline": "2029-01-29",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360446",
-      "description": "This Notice of Funding Opportunity (NOFO) encourages applications for NIGMS Biomedical Technology Optimization and Dissemination (BTOD) Centers to support late-stage technology optimization and sustainable dissemination of the technologies to the wider biomedical research community. A BTOD Center should be at the leading edge of its field with respect to both technology optimization and engagement with relevant research communities.BTOD projects must address biomedical research areas within the NIGMS mission. Potential applicants are strongly encouraged to consult with NIGMS staff about adherence of their proposed research strategy to the Institute's goals and mission and its responsiveness to this NOFO.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:359703",
-      "kind": "Funding opportunity",
-      "number": "PA-27-034",
-      "title": "NIH Research Education Program - Courses, Curriculum & Methods (Parent R25 - Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-08",
-      "deadline": "2029-05-25",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359703",
-      "description": "The National Institutes of Health (NIH) Research Education Program supports research education activities in the mission areas of the NIH. The overarching goal of the Research Education program is to:Support educational activities that complement and/or enhance training of a workforce to meet the nation's biomedical, behavioral and clinical research needs;Help recruit individuals with specific specialty or disciplinary backgrounds to research careers in biomedical, behavioral and clinical sciences; andFoster a better understanding of biomedical, behavioral and clinical research and its implications.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 2,
       "topics": [],
       "matches": [],
       "excluded": []
