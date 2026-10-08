@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-07T19:24:07.172653+00:00",
+  "updated": "2026-10-08T19:18:50.584605+00:00",
   "items": [
     {
-      "id": "grant:360366",
+      "id": "grant:361431",
       "kind": "Funding opportunity",
-      "number": "RFA-DA-28-012",
-      "title": "HEAL Initiative: Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) - Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center (U2C Clinical Trial Not Allowed)",
+      "number": "RFA-RM-27-024",
+      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
       "agency": "National Institutes of Health",
-      "posted": "2026-10-06",
-      "deadline": "2027-01-26",
+      "posted": "2026-10-08",
+      "deadline": "2026-11-10",
       "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/360366",
-      "description": "The National Institutes of Health (NIH) intends to renew the Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) research network. This renewal consists of individual research projects, which will be supported by a single Coordination Center. This network is intended to test new innovations that integrate evidence based treatments for chronic pain (CP) and opioid use disorder (OUD). This research will characterize or modify factors that impact wide-scale adoption and sustained use of effective treatments at this intersection. The network will be part of the NIH\u2019s Helping to End Addiction Long-term (HEAL\u00ae) Initiative to speed the development and implementation of scientific solutions to the national opioid public health crisis. The NIH HEAL Initiative will bolster research across NIH to (1) improve treatment and prevention of opioid misuse and OUD and (2) enhance pain management. This notice of funding opportunity (NOFO) seeks applications for a single Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center. The BEACON Center will provide overall network coordination support; research education activities to build capacity at the intersection of CP, OUD, and implementation science; annual survey/qualitative activities to understand different barriers and attitudes impacting access and sustained use of integrated CP and OUD service delivery; and develop key resources for stakeholders that can inform/improve sustainability and scalability of evidence-based practices, including findings and resources from IMPOWR Phase I.",
+      "url": "https://www.grants.gov/search-results-detail/361431",
+      "description": "The Common Fund Human Virome Program (HVP) aims to extensively and comprehensively characterize the \"healthy\" human virome (the collection of viruses that normally reside inside the human body without evidence of disease) and create tools, models, and methods that will enable an in-depth study of its variation and composition in relation to host factors and its influence on health and disease. The purpose of this NOFO is to support small pilot projects that extend the goals of the HVP, including further validating, improving, and complementing existing and newly developed tools from the HVP program by leveraging human specimens collected from the cohorts under the program; samples from animals to promote the refinement, utilization, and translation of these tools to better serve the goals of the HVP program; expanding existing cohorts and/or biospecimen sampling sites for virome characterization; developing tools, assays, and methods to study the human virome; and defining functional interactions between the human virome and host. These pilot projects will expand the HVP consortium, and collaboration across the HVP is expected. Applicants outside the current HVP are encouraged to apply and pilot projects should not overlap with existing HVP efforts (visit the Common Fund website for a list of funded research).",
       "source": "Grants.gov",
-      "first_seen": "2026-10-07",
+      "first_seen": "2026-10-08",
       "is_new": true,
       "score": 3,
       "topics": [],
@@ -253,26 +253,22 @@
       "excluded": []
     },
     {
-      "id": "grant:362723",
+      "id": "grant:360366",
       "kind": "Funding opportunity",
-      "number": "PAR-27-119",
-      "title": "Center for Inherited Disease Research (CIDR) High Throughput Sequencing and Genotyping Resource Access (X01 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-06-09",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/362723",
-      "description": "",
+      "number": "RFA-DA-28-012",
+      "title": "HEAL Initiative: Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) - Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center (U2C Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-10-06",
+      "deadline": "2027-01-26",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/360366",
+      "description": "The National Institutes of Health (NIH) intends to renew the Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) research network. This renewal consists of individual research projects, which will be supported by a single Coordination Center. This network is intended to test new innovations that integrate evidence based treatments for chronic pain (CP) and opioid use disorder (OUD). This research will characterize or modify factors that impact wide-scale adoption and sustained use of effective treatments at this intersection. The network will be part of the NIH\u2019s Helping to End Addiction Long-term (HEAL\u00ae) Initiative to speed the development and implementation of scientific solutions to the national opioid public health crisis. The NIH HEAL Initiative will bolster research across NIH to (1) improve treatment and prevention of opioid misuse and OUD and (2) enhance pain management. This notice of funding opportunity (NOFO) seeks applications for a single Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center. The BEACON Center will provide overall network coordination support; research education activities to build capacity at the intersection of CP, OUD, and implementation science; annual survey/qualitative activities to understand different barriers and attitudes impacting access and sustained use of integrated CP and OUD service delivery; and develop key resources for stakeholders that can inform/improve sustainability and scalability of evidence-based practices, including findings and resources from IMPOWR Phase I.",
       "source": "Grants.gov",
-      "first_seen": "2026-09-01",
+      "first_seen": "2026-10-07",
       "is_new": false,
-      "score": 4,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "sequencing"
-      ],
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
