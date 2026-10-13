@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:47:23.016613+00:00",
+  "updated": "2026-10-13T19:54:43.616191+00:00",
   "items": [
     {
       "id": "grant:359277",
@@ -152,7 +152,7 @@
       "deadline": "2029-04-17",
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/360554",
-      "description": "The National Institutes of Health seek to advance their mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive DevelopmentSM (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with the respective study objectives that will maximize the scientific utility of these limited samples. Applications should expand the knowledge gained from these studies and advance our understanding of the multiple genetic and environmental factors, such as exposure to substances, that affect health and disease over the course of a lifetime.",
+      "description": "The National Institutes of Health seek to advance their mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive Development SM (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with the respective study objectives that will maximize the scientific utility of these limited samples. Applications should expand the knowledge gained from these studies and advance our understanding of the multiple genetic and environmental factors, such as exposure to substances, that affect health and disease over the course of a lifetime.",
       "source": "Grants.gov",
       "first_seen": "2026-09-02",
       "is_new": false,
@@ -255,6 +255,25 @@
       "matches": [
         "genomics"
       ],
+      "excluded": []
+    },
+    {
+      "id": "grant:361832",
+      "kind": "Funding opportunity",
+      "number": "RFA-AI-28-024",
+      "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-10-13",
+      "deadline": "2027-02-11",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/361832",
+      "description": "The purpose of this notice of funding opportunity (NOFO) is to support research and/or preclinical development of highly efficacious vaccines against malaria - one of the deadliest mosquito-borne diseases - by capitalizing on recent technological innovations, particularly in structure-based immunogen design, improved formulations, and combination vaccines. The goal is to achieve long-lasting, highly effective protection that can save lives, strengthen public health security in the United States, and serve as a model for, or are potentially effective against, other mosquito-borne diseases.",
+      "source": "Grants.gov",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
