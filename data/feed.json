@@ -1,25 +1,6 @@
 {
-  "updated": "2026-10-16T17:31:32.595144+00:00",
+  "updated": "2026-10-17T16:30:06.825399+00:00",
   "items": [
-    {
-      "id": "grant:361318",
-      "kind": "Funding opportunity",
-      "number": "RFA-LM-28-001",
-      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-10-16",
-      "deadline": "2027-02-11",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/361318",
-      "description": "The National Library of Medicine (NLM) invites applications for innovative predoctoral and postdoctoral training programs that prepare the next generation of researchers in biomedical informatics, data science, and artificial intelligence/machine learning (AI/ML). NLM emphasizes cutting-edge, forward-looking training experiences that equip trainees to address complex health and biomedical challenges through advanced computational approaches. Applications may propose the creation of new training programs or the renewal of existing NLM-supported programs. These programs are designed to meet the growing demand for researchers with deep expertise in biomedical computing, data science, and AI/ML, with clear relevance to health and biomedical research. Recognizing the inherently interdisciplinary nature of these fields, NLM seeks programs that integrate methods and perspectives across disciplines to advance biomedical informatics, data science, and AI/ML.",
-      "source": "Grants.gov",
-      "first_seen": "2026-10-16",
-      "is_new": true,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
     {
       "id": "grant:359277",
       "kind": "Funding opportunity",
@@ -69,30 +50,6 @@
       "excluded": []
     },
     {
-      "id": "grant:361164",
-      "kind": "Funding opportunity",
-      "number": "PAR-27-071",
-      "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-18",
-      "deadline": "2027-01-11",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/361164",
-      "description": "As part of the Gabriella Miller Kids First Pediatric Research Program (Kids First Program), the NIH invites applications to submit samples from pediatric cohorts for whole genome sequencing at a Kids First Program supported genomic data generating centers. Applicants are encouraged to propose sequencing of existing pediatric cancer or congenital anomaly cohorts to elucidate the genetic contribution (somatic and/or germline) to childhood cancers, to investigate the genetic etiology of congenital anomalies, to study the molecular basis of the associations between congenital anomalies and increased cancer risk, or to expand the range of pediatric disorders included within the Kids First Data Resource. The program will accept applications that propose whole genome, exome, and transcriptome sequencing, as well as clinical-grade sequencing, long-read sequencing, proteomics, and epigenomic assays of tumor or affected tissue, when justified. Applicants are encouraged to propose cohorts to increase representation of existing Kids First Program projects. These data, and associated clinical and phenotypic data, will become part of the Kids First Data Resource Center for sharing with the research community.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 7,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "proteomics",
-        "sequencing"
-      ],
-      "excluded": []
-    },
-    {
       "id": "grant:359740",
       "kind": "Funding opportunity",
       "number": "RFA-AG-27-010",
@@ -135,29 +92,6 @@
       ],
       "matches": [
         "nutrition"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:359280",
-      "kind": "Funding opportunity",
-      "number": "RFA-HG-27-012",
-      "title": "GREGoRi Technology Integration Center (U01, Clinical Trials Optional)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-18",
-      "deadline": "2026-10-30",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359280",
-      "description": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. The purpose of this Notice of Funding Opportunity is to establish the GREGoRi Technology Integration Center, which will enable the development of standards and best practices for applying new and emerging molecular methods in rare disease diagnosis. A major deliverable of the Center will be a multidimensional dataset that can be used for the development and benchmarking of novel tools and strategies that facilitate rare disease diagnosis.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 6,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "genomics"
       ],
       "excluded": []
     },
@@ -231,49 +165,22 @@
       "excluded": []
     },
     {
-      "id": "grant:359644",
+      "id": "grant:361318",
       "kind": "Funding opportunity",
-      "number": "RFA-HG-27-013",
-      "title": "GREGoRi Innovation Projects (U01 Clinical Trial Optional)",
+      "number": "RFA-LM-28-001",
+      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
       "agency": "National Institutes of Health",
-      "posted": "2026-06-18",
-      "deadline": "2026-10-30",
+      "posted": "2026-10-16",
+      "deadline": "2027-02-11",
       "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359644",
-      "description": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. This Notice of Funding Opportunity is intended to stimulate the development and testing of highly innovative experimental or computational approaches for rare disease diagnosis, that have the potential to make transformative improvements to the current state of the art.",
+      "url": "https://www.grants.gov/search-results-detail/361318",
+      "description": "The National Library of Medicine (NLM) invites applications for innovative predoctoral and postdoctoral training programs that prepare the next generation of researchers in biomedical informatics, data science, and artificial intelligence/machine learning (AI/ML). NLM emphasizes cutting-edge, forward-looking training experiences that equip trainees to address complex health and biomedical challenges through advanced computational approaches. Applications may propose the creation of new training programs or the renewal of existing NLM-supported programs. These programs are designed to meet the growing demand for researchers with deep expertise in biomedical computing, data science, and AI/ML, with clear relevance to health and biomedical research. Recognizing the inherently interdisciplinary nature of these fields, NLM seeks programs that integrate methods and perspectives across disciplines to advance biomedical informatics, data science, and AI/ML.",
       "source": "Grants.gov",
-      "first_seen": "2026-09-01",
+      "first_seen": "2026-10-16",
       "is_new": false,
-      "score": 4,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "genomics"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:359279",
-      "kind": "Funding opportunity",
-      "number": "RFA-HG-27-011",
-      "title": "GREGoRi Data Coordination and Outreach Center (U01, Clinical Trials Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-06-18",
-      "deadline": "2026-10-30",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359279",
-      "description": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. The purpose of this Notice of Funding Opportunity is to establish the GREGoRi Data Coordination and Outreach Center. The Data Coordination and Outreach Center will act as the central point of coordination for the GREGoRi Research Program, and will be responsible for ensuring that the protocols, data, metadata, computational tools and other resources developed as part of GREGoRi are made available to the broader research community.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 4,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "genomics"
-      ],
+      "score": 3,
+      "topics": [],
+      "matches": [],
       "excluded": []
     },
     {
