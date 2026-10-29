@@ -1,6 +1,49 @@
 {
-  "updated": "2026-10-28T18:55:47.163724+00:00",
+  "updated": "2026-10-29T18:59:42.195408+00:00",
   "items": [
+    {
+      "id": "grant:358954",
+      "kind": "Funding opportunity",
+      "number": "RFA-RM-27-008",
+      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-10-29",
+      "deadline": "2027-01-08",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/358954",
+      "description": "The purpose of this Notice of Funding Opportunity (NOFO) is to support the Genomic Data Generation Center(s) for the Gabriella Miller Kids First Pediatric Research Program to support rapid generation of high quality sequence and variant data (e.g., genome-wide, RNA, and long-read DNA and RNA sequencing, genome-wide methylation profiling, and chromatin accessibility data ) from a large number of human specimens representing pediatric conditions, including childhood cancers and congenital anomalies. All data generated under this NOFO will be re-processed and harmonized by the Gabriella Miller Kids First Pediatric Data Resource Center (Kids First DRC). The DRC is charged with maintaining a public-facing, cloud-based resource that enables researchers to search, access, aggregate, analyze, and share annotated genomic sequences, genomic variants, epigenomic, transcriptomic, and phenotypic datasets. Together , these resources promote comprehensive and cross-cutting research and collaboration within the pediatric research community.",
+      "source": "Grants.gov",
+      "first_seen": "2026-10-29",
+      "is_new": true,
+      "score": 7,
+      "topics": [
+        "omics and genetics"
+      ],
+      "matches": [
+        "genome-wide",
+        "sequencing"
+      ],
+      "excluded": []
+    },
+    {
+      "id": "grant:358959",
+      "kind": "Funding opportunity",
+      "number": "RFA-RM-27-009",
+      "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "posted": "2026-10-29",
+      "deadline": "2027-01-08",
+      "status": "Posted",
+      "url": "https://www.grants.gov/search-results-detail/358959",
+      "description": "This is a Notice of Funding Opportunity (NOFO) for a Single Source that will invite application(s) from the eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered. This NOFO solicits applications for the continued development of the Gabriella Miller Kids First Pediatric Data Resource Center (DRC), which consists of the following components: a Data Resource Core, a Data Coordination Core, and an Administrative Core. The goal of the cloud-based Data Resource is to accelerate discovery of genetic etiology and shared biologic pathways within and across childhood cancers and congenital anomalies by facilitating access to and querying of annotated genomic sequence and phenotypic data from cohorts of patients with these conditions. The Data Resource Core serves as a research resource where genomic and phenotypic data can be aggregated, accessed, analyzed, and shared within and across the childhood cancer and congenital anomalies research communities as well as the broader scientific community. The Data Coordination Core will work with Kids First investigators and KF Genomic Data Generation Centers to facilitate data collection, harmonization, and sharing. The Administrative Core will oversee administrative activities, work closely with the NIH Kids First Working Group, and with the Kids First Training and Outreach Core, to provide resources to the research community.",
+      "source": "Grants.gov",
+      "first_seen": "2026-10-29",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
     {
       "id": "grant:359277",
       "kind": "Funding opportunity",
