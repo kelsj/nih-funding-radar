@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:58:56.054551+00:00",
+  "updated": "2026-11-07T18:05:22.877129+00:00",
   "items": [
     {
       "id": "grant:358954",
@@ -954,25 +954,6 @@
       "deadline": "",
       "status": "Forecasted",
       "url": "https://www.grants.gov/search-results-detail/363678",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:363126",
-      "kind": "Funding opportunity",
-      "number": "RFA-OD-28-001",
-      "title": "Tobacco Centers of Regulatory Science (TCORS) (Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-07-09",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/363126",
       "description": "",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
