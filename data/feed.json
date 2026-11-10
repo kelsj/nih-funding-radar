@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-09T23:01:56.493926+00:00",
+  "updated": "2026-11-10T20:30:33.206058+00:00",
   "items": [
+    {
+      "id": "grant:364251",
+      "kind": "Funding opportunity",
+      "number": "RFA-HG-28-007",
+      "title": "Broadening Opportunities for Computational Genomics and Data Science Education (UE5 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-11-10",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/364251",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-11-10",
+      "is_new": true,
+      "score": 4,
+      "topics": [
+        "omics and genetics"
+      ],
+      "matches": [
+        "genomics"
+      ],
+      "excluded": []
+    },
     {
       "id": "grant:358954",
       "kind": "Funding opportunity",
@@ -822,25 +845,6 @@
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/361833",
       "description": "The purpose of this notice of funding opportunity (NOFO) is to support research that advances understanding of the natural history of radiation or chemical exposures; develops relevant injury models; identifies and validates diagnostic tools, biomarkers, or triage technologies; and supports the development of effective medical countermeasures (MCMs) to mitigate or treat acute and/or delayed injuries resulting from radiological/nuclear or chemical public health emergencies.",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:361213",
-      "kind": "Funding opportunity",
-      "number": "RFA-DK-27-112",
-      "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-08-31",
-      "deadline": "2026-11-09",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/361213",
-      "description": "This is a Notice of Funding Opportunity (NOFO) for a Single Source that will invite an application from the eligible organization to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, applications will be peer-reviewed, and only meritorious applications will be considered for funding. Through this NOFO, the National institute of Diabetes and Digestive and Kidney Diseases (NIDDK) invites an application to continue to follow the Epidemiology of Diabetes Interventions and Complications (EDIC) cohort through a collaborative cooperative agreement that addresses specific knowledge gaps in the development and progression of type 1 diabetes complications. Applications should include hypothesis-based research, support for cohort infrastructure and/or maintenance, continued follow-up, and supporting collaborative research to utilize the EDIC cohort as well as its data set and biologic/genetic samples.",
       "source": "Grants.gov",
       "first_seen": "2026-09-01",
       "is_new": false,
