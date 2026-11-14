@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:31:07.569655+00:00",
+  "updated": "2026-11-14T18:45:51.422475+00:00",
   "items": [
     {
       "id": "grant:358954",
@@ -46,30 +46,6 @@
       "matches": [
         "genome-wide",
         "gwas"
-      ],
-      "excluded": []
-    },
-    {
-      "id": "grant:363210",
-      "kind": "Funding opportunity",
-      "number": "RFA-HD-28-003",
-      "title": "Elucidation and Validation of the role of Transporters in the Placenta, Lactating Mammary Gland, Developing Gut, and Blood Brain Barrier",
-      "agency": "HHS-NIH11",
-      "posted": "2026-07-16",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/363210",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "score": 7,
-      "topics": [
-        "human milk and lactation"
-      ],
-      "matches": [
-        "lactating",
-        "mammary gland"
       ],
       "excluded": []
     },
