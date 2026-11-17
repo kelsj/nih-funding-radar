@@ -1,29 +1,6 @@
 {
-  "updated": "2026-11-16T22:56:58.798785+00:00",
+  "updated": "2026-11-17T21:50:04.688136+00:00",
   "items": [
-    {
-      "id": "grant:364269",
-      "kind": "Funding opportunity",
-      "number": "RFA-HG-28-008",
-      "title": "Educational Hub for Expanding the Computational Genomics and Data Science Workforce (U24 Clinical Trials Not Allowed)",
-      "agency": "HHS-NIH11",
-      "posted": "2026-11-16",
-      "deadline": "",
-      "status": "Forecasted",
-      "url": "https://www.grants.gov/search-results-detail/364269",
-      "description": "",
-      "source": "Grants.gov",
-      "first_seen": "2026-11-16",
-      "is_new": true,
-      "score": 4,
-      "topics": [
-        "omics and genetics"
-      ],
-      "matches": [
-        "genomics"
-      ],
-      "excluded": []
-    },
     {
       "id": "grant:358954",
       "kind": "Funding opportunity",
@@ -69,6 +46,29 @@
       "matches": [
         "genome-wide",
         "gwas"
+      ],
+      "excluded": []
+    },
+    {
+      "id": "grant:364269",
+      "kind": "Funding opportunity",
+      "number": "RFA-HG-28-008",
+      "title": "Educational Hub for Expanding the Computational Genomics and Data Science Workforce (U24 Clinical Trials Not Allowed)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-11-16",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/364269",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-11-16",
+      "is_new": false,
+      "score": 4,
+      "topics": [
+        "omics and genetics"
+      ],
+      "matches": [
+        "genomics"
       ],
       "excluded": []
     },
