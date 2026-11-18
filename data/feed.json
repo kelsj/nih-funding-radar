@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-17T21:50:04.688136+00:00",
+  "updated": "2026-11-18T21:29:14.007649+00:00",
   "items": [
+    {
+      "id": "grant:364279",
+      "kind": "Funding opportunity",
+      "number": "RFA-DK-28-117",
+      "title": "Single Source Competition for Biostatistical and Coordinating Center Renewal of the NIDDK CLEAR Study Consortium (Closed-Loop and Education for Hypoglycemia Awareness Restoration) (U24- Resource-Related Research Project, Cooperative Agreements)",
+      "agency": "HHS-NIH11",
+      "posted": "2026-11-18",
+      "deadline": "",
+      "status": "Forecasted",
+      "url": "https://www.grants.gov/search-results-detail/364279",
+      "description": "",
+      "source": "Grants.gov",
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "score": 3,
+      "topics": [],
+      "matches": [],
+      "excluded": []
+    },
     {
       "id": "grant:358954",
       "kind": "Funding opportunity",
