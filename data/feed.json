@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T01:00:50.276820+00:00",
+  "updated": "2026-11-24T23:05:27.594337+00:00",
   "items": [
     {
       "id": "grant:358954",
@@ -555,25 +555,6 @@
       "status": "Posted",
       "url": "https://www.grants.gov/search-results-detail/358854",
       "description": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit applications to characterize genomic variation to assess the impact of individual variants on genome function. This will be accomplished by systematically perturbing variants or elements using one or more high-throughput methods; collecting data on the effects of variants in DNA, RNA, or protein-coding elements on molecular, cellular, or organismal phenotypes; and developing robust, reproducible, and portable data processing pipelines. Centers funded through this initiative will become a part of the Impact of Genomic Variation on Function (IGVF) Consortium. As consortium members, centers will work together to ensure all consortium resources are accessible to a wide variety of potential users. Centers are also expected to collaborate with other consortium components to coordinate assays, variants, and cell types, and to develop shared analysis strategies to meet consortium goals.",
-      "source": "Grants.gov",
-      "first_seen": "2026-10-09",
-      "is_new": false,
-      "score": 3,
-      "topics": [],
-      "matches": [],
-      "excluded": []
-    },
-    {
-      "id": "grant:359168",
-      "kind": "Funding opportunity",
-      "number": "RFA-RM-27-007",
-      "title": "Cellular Senescence Network (SenNet): SenNet Technology Projects (SenTecs) (UG3/UH3 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "posted": "2026-10-09",
-      "deadline": "2026-11-23",
-      "status": "Posted",
-      "url": "https://www.grants.gov/search-results-detail/359168",
-      "description": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit the development of innovative senescence technologies (SenTecs), or the adaptation of existing technologies focused on identification, characterization and understanding the biological consequences of senescent cell (SnC) heterogeneity in the context of the tissue environments and secretomes to facilitate novel strategies for modulating SnCs in vivo and for predicting the outcomes of targeting SnCs in human aging and in disease conditions. These are five-year, milestone-driven awards consisting of two phases. The first two years constitute the UG3 phase and are focused on SenTec development and demonstration of technology feasibility. The following 3-years is the SenTec application UH3 phase where SenTecs continue to be optimized, refined and validated. In the final year of the UH3 award, SenTecs will undertake a demonstration project conducted in a collaborative effort within SenNet to provide further validation of the proposed SenTec. Applicants are required to submit both UG3 and UH3 projects together when responding to this NOFO. Transition from the UG3 to UH3 phases is not automatic and will occur only after administrative review of each SenTec at the close of Year 2 of the award.",
       "source": "Grants.gov",
       "first_seen": "2026-10-09",
       "is_new": false,
